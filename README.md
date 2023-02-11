@@ -3,5 +3,5 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is
 Concepts Used:
                  Backtracking
 
-    Some problems can be solved in a certain number of steps sequentially, wherein in each step we have to choose between certain number of possibilities. We make a guess of the choice among the possibilities and proceed to the next step. After making each choice, we check whether it is feasible. If not, we make a different choice. At a certain step, if none of the possibilities turns out to be feasible, we know that anyone/some of our guesses is/are wrong. Hence, we go to the previous step and make a different choice and proceed. Hence the name backtracking.
+Some problems can be solved in a certain number of steps sequentially, wherein in each step we have to choose between certain number of possibilities. We make a guess of the choice among the possibilities and proceed to the next step. After making each choice, we check whether it is feasible. If not, we make a different choice. At a certain step, if none of the possibilities turns out to be feasible, we know that anyone/some of our guesses is/are wrong. Hence, we go to the previous step and make a different choice and proceed. Hence the name backtracking.
     
