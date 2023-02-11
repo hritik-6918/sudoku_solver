@@ -1,3 +1,4 @@
+![download](https://user-images.githubusercontent.com/83581212/218260402-a4d7ed10-bd0b-4d20-a895-e51fc460e1ff.png)
 # sudoku_solver
 Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the digits from 1 to 9.  We will be building the Sudoku Game and automate the game using backtracking algorithm. 
 
