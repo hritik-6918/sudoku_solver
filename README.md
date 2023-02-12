@@ -17,4 +17,4 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 
 
 
-                                              Made with ❤ by Hritik kumar
+                                           Made with ❤ by Hritik kumar
